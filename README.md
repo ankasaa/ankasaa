@@ -14,7 +14,7 @@
 
 - 🎓 Informatics student with a strong passion for **Web Development** and **UI/UX Design**
 - 🌉 I enjoy bridging the gap between engineering and design to build modern, responsive, and functional web applications
-- 🌱 Currently deepening my knowledge in **Next.js** and **Tailwind CSS**
+- 🌱 Currently deepening my knowledge in **Next.js**, **Laravel** and **Tailwind CSS**
 - 🚀 *Learning by building — improving one project at a time*
 - 💬 Ask me about **React**, **Next.js**, or **Frontend Design**
 

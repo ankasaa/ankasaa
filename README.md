@@ -29,7 +29,7 @@ I'm an Informatics student with a strong passion for **Web Development** and **U
 ### 📊 GitHub Stats
 
 <!-- Ganti YOUR_GITHUB_USERNAME dengan username GitHub kamu yang asli -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6" alt="Andika's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ankasaa&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6" alt="Andika's GitHub Stats" />
 
 <hr>
 

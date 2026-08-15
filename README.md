@@ -29,7 +29,9 @@ I'm an Informatics student with a strong passion for **Web Development** and **U
 ### 📊 GitHub Stats
 
 <!-- Ganti YOUR_GITHUB_USERNAME dengan username GitHub kamu yang asli -->
-<img src="https://github-readme-stats.vercel.app/api?username=ankasaa&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6" alt="Andika's GitHub Stats" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Andika+👋;Informatics+Student;Web+Developer" alt="Typing SVG" />
+</a>
 
 <hr>
 

@@ -1,43 +1,71 @@
 <div align="center">
 
-<!-- Animasi Teks Mengetik -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=200&section=header&text=Hi%20There,%20I'm%20Andika%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Informatics%20Student%20%7C%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Andika+👋;Informatics+Student;Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Web+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Turning+Ideas+Into+Clean+Code+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
-**Web Developer who turns ideas into clean, functional experiences.**
+</div>
 
 <br>
 
-### 👨‍💻 About Me
-I'm an Informatics student with a strong passion for **Web Development** and **UI/UX Design**. I enjoy bridging the gap between engineering and design to build modern, responsive, and functional web applications. 
+## 👨‍💻 About Me
 
-🌱 Currently deepening my knowledge in **Next.js** and **Tailwind CSS**. <br>
-🚀 *Learning by building, improving one project at a time.*
+- 🎓 Informatics student with a strong passion for **Web Development** and **UI/UX Design**
+- 🌉 I enjoy bridging the gap between engineering and design to build modern, responsive, and functional web applications
+- 🌱 Currently deepening my knowledge in **Next.js** and **Tailwind CSS**
+- 🚀 *Learning by building — improving one project at a time*
+- 💬 Ask me about **React**, **Next.js**, or **Frontend Design**
 
-<hr>
+<br>
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
-<!-- Skill Icons (Otomatis menyesuaikan tema terang/gelap) -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma,git,github&perline=9" alt="My Skills" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,git,github,vscode,vercel&perline=6" alt="My Skills" />
+
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+</div>
+
+<br>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
 </a>
 
-<hr>
+</div>
 
-### 📊 GitHub Stats
+<br>
 
-<!-- Ganti YOUR_GITHUB_USERNAME dengan username GitHub kamu yang asli -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Andika+👋;Informatics+Student;Web+Developer" alt="Typing SVG" />
-</a>
+## 📬 Let's Connect!
 
-<hr>
+<div align="center">
 
-### 📬 Let's Connect!
-
-<!-- Badges untuk Kontak -->
 <a href="mailto:email_kamu@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
@@ -48,4 +76,14 @@ I'm an Informatics student with a strong passion for **Web Development** and **U
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=120&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=3B82F6&style=flat" alt="Profile Views" />
 </div>

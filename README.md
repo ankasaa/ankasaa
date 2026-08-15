@@ -34,15 +34,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ankasaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankasaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankasaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankasaa&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
 
 <br>
@@ -51,11 +51,14 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+<!-- Project 1: danakasa-next -->
+<a href="https://github.com/ankasaa/DanaKasa-Next">
+  <img src="https://danakasa-next.vercel.app/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+
+<!-- Project 2: Ganti NAMA_REPO_KEDUA dengan nama repo kamu yang lain -->
+<a href="https://github.com/ankasaa/NAMA_REPO_KEDUA">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankasaa&repo=NAMA_REPO_KEDUA&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -85,5 +88,5 @@
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=3B82F6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=ankasaa&label=Profile%20Views&color=3B82F6&style=flat" alt="Profile Views" />
 </div>

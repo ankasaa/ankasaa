@@ -21,7 +21,7 @@ I enjoy combining **design and engineering** to turn ideas into real products.
 
 > **Design the experience. Build the solution. Ship the product.**
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stac
 
 <div align="center">
 

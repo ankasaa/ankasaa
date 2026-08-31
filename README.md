@@ -66,7 +66,7 @@
 
 ---
 
-## 💬 Let's Connect
+## 💬 Let's Connects
 
 <p align="center">
   <a href="mailto:andika@email.com">

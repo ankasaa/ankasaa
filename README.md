@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=180&section=header&text=Andika%20🚀&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20UI/UX%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
 </div>
 
-<h3 align="center">✨ Buildng digital experiences with clean code & thoughtful design ✨</h3>
+<h3 align="center">✨ Buildng digital experiences with clan code & thoughtful design ✨</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=2000&pause=1500&color=3B82F6&center=true&vCenter=true&width=500&lines=Frontend+%26+Backend+Developer;React+%7C+Next.js+%7C+Laravel;UI%2FUX+Enthusiast;Always+learning+new+things" alt="Typing SVG"/>
